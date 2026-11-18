@@ -8,7 +8,7 @@
 
 ```
 firmware/   Arduino 源码（ST7789_Test.ino）与编译好的固件 BIN
-docs/       硬件接线与组装、使用与调试（含六面标定）
+docs/       物料清单、硬件接线与组装、使用与调试（含六面标定）
 casing/     外壳：CadQuery 参数化源码、README、build.py、output/ 内 STL+STEP
 images/     接线图（渲染版）
 ```
@@ -17,6 +17,7 @@ images/     接线图（渲染版）
 
 | 需要什么 | 去哪里看 |
 |-|-|
+| 物料清单与网购搜索关键词 | [docs/物料清单.md](docs/物料清单.md) |
 | 零件、接线与供电 | [docs/硬件接线与组装.md](docs/硬件接线与组装.md) |
 | 操作、校准、原理与验收 | [docs/使用与调试.md](docs/使用与调试.md) |
 | Arduino 源码 | [firmware/ST7789_Test/ST7789_Test.ino](firmware/ST7789_Test/ST7789_Test.ino) |
