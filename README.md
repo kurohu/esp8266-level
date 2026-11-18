@@ -2,7 +2,7 @@
 
 原创设计的 ESP8266 电子水平仪全套资料：外壳（参数化建模 + STL/STEP）、固件源码与可直刷 BIN、接线与组装、使用与校准调试。主控 NodeMCU 1.0（ESP-12E，4 MB Flash），显示 GMT020-02-8P／ST7789 2.0 英寸 SPI 屏，姿态传感器 GY-521／MPU6050。
 
-3D 打印模型页：MakerWorld 模型链接发布后补充（TODO）
+3D 打印模型页：https://makerworld.com.cn/zh/models/3285846-esp8266-dian-zi-shui-ping-yi-3dda-yin-wai-ke
 
 ## 仓库结构
 
